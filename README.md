@@ -7,4 +7,4 @@ The modeling for fraud detection mainly consists of two parts:
 1. feature engineering part, which aims at extracting features from transactional data tested useful and productive in industry setting, see "Feature Standardization.markdown" file for more details;
 2. model construction part, including almost everything when building a machine learning model, and serves as a fancy tool for both a baseline and later a fine-tuned version which can meet the demand in industry. See "pipeline of model construction.ipynb" for more details.
 
-Those procedures have been proven successful in practice for a lot of times and under various circumstances in different bank branches settings.
+Those procedures have been proven successful in practice for a lot of times and under various circumstances in different bank branches settings nationwide.
