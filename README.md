@@ -12,5 +12,5 @@ The modeling for fraud detection mainly consists of two parts:
 Those procedures have been proven successful in practice for a lot of times and under various circumstances in different bank branches settings nationwide.
 
 Here is a flow chart for the pipeline.
-- English version
+
 ![avatar](en_version.png)
