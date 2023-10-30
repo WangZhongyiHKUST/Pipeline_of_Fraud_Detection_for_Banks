@@ -14,6 +14,3 @@ Those procedures have been proven successful in practice for a lot of times and 
 Here is a flow chart for the pipeline.
 - English version
 ![avatar](en_version.png)
-
-- Chinese version
-![avatar](cn_version.png)
